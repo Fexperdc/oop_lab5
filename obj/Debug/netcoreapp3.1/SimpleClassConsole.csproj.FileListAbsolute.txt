@@ -1,0 +1,13 @@
+C:\Users\felix\OneDrive\Робочий стіл\KR_13_1\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.exe
+C:\Users\felix\OneDrive\Робочий стіл\KR_13_1\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.deps.json
+C:\Users\felix\OneDrive\Робочий стіл\KR_13_1\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.runtimeconfig.json
+C:\Users\felix\OneDrive\Робочий стіл\KR_13_1\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.runtimeconfig.dev.json
+C:\Users\felix\OneDrive\Робочий стіл\KR_13_1\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.dll
+C:\Users\felix\OneDrive\Робочий стіл\KR_13_1\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.pdb
+C:\Users\felix\OneDrive\Робочий стіл\KR_13_1\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.csprojAssemblyReference.cache
+C:\Users\felix\OneDrive\Робочий стіл\KR_13_1\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.csproj.CoreCompileInputs.cache
+C:\Users\felix\OneDrive\Робочий стіл\KR_13_1\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.AssemblyInfoInputs.cache
+C:\Users\felix\OneDrive\Робочий стіл\KR_13_1\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.AssemblyInfo.cs
+C:\Users\felix\OneDrive\Робочий стіл\KR_13_1\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.dll
+C:\Users\felix\OneDrive\Робочий стіл\KR_13_1\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.pdb
+C:\Users\felix\OneDrive\Робочий стіл\KR_13_1\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.genruntimeconfig.cache
